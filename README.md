@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there, I'm Lauren! 👋
 
-<!--
-**LKessell/LKessell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer currently finishing my final inning at the Turing School of Software and Design. I love problem solving and learning new things!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - Planning for my Mod 4 capstone project
+- 🌱 I’m currently learning:
+  - Continuous Integration with CircleCI
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/lauren-kessell/)
+  - [Email Me](mailto:lkessell1@gmail.com)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love chunky lil lizards 😍🦎💚
