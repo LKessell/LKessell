@@ -3,7 +3,7 @@
 I'm a software developer currently finishing my final inning at the Turing School of Software and Design. I love problem solving and learning new things!
 
 - 🔭 I’m currently working on:
-  - Mod 4 capstone project, SWRPG Companion!
+  - Technical challenge practice
 - 🌱 I’m currently learning:
   - Continuous Integration with CircleCI
   - GraphQL and Apollo Client
