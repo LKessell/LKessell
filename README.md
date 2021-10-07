@@ -1,6 +1,6 @@
 ### Hey there, I'm Lauren! 👋
 
-I'm a software developer currently finishing my final inning at the Turing School of Software and Design. I love problem solving and learning new things!
+I'm a software developer and recent graduate from the Turing School of Software and Design. I love problem solving and learning new things!
 
 - 🔭 I’m currently working on:
   - Technical challenge practice
