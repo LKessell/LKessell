@@ -3,7 +3,8 @@
 I'm a software developer and recent graduate from the Turing School of Software and Design. I love problem solving and learning new things!
 
 - 🔭 I’m currently working on:
-  - Technical challenge practice
+  - Technical challenges!
+  - SWRPG Companion
 - 🌱 I’m currently learning:
   - Continuous Integration with CircleCI
   - GraphQL and Apollo Client
