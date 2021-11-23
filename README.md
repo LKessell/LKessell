@@ -3,10 +3,11 @@
 I'm a software developer and recent graduate from the Turing School of Software and Design. I love problem solving and learning new things!
 
 - 🔭 I’m currently working on:
-  - Technical challenges!
+  - Learning new technologies
   - SWRPG Companion
 - 🌱 I’m currently learning:
-  - Continuous Integration with CircleCI
+  - Next.js
+  - Contentful
   - GraphQL and Apollo Client
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/lauren-kessell/)
