@@ -4,7 +4,7 @@ I'm a software developer and recent graduate from the Turing School of Software 
 
 - 🔭 I’m currently working on:
   - Learning new technologies
-  - SWRPG Companion
+  - Villager Vibes
 - 🌱 I’m currently learning:
   - Next.js
   - Contentful
